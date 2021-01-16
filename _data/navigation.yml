@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Decision Support and Expert System"
+  - title: "Spring 2021"
     url: /publications/
 
-  - title: "Queueing Systems and Simulation"
-    url: /talks/    
+#  - title: "Queueing Systems and Simulation"
+ #   url: /talks/    
 
 #  - title: "Teaching"
  #   url: /teaching/    
