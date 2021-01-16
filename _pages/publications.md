@@ -1,16 +1,10 @@
 ---
 layout: archive
-title: "Publications"
+title: "Spring 2021"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+<p>I am teaching Decision support and expert systems for MBA 2nd year students.</p>
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<p>I am also teaching Queueing systems and Simulation for MBA 1st year students in term IV.</p>
