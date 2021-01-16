@@ -12,4 +12,4 @@ redirect_from:
 
 <p>This semester (Spring 2021), I am teaching "Decision Support and Expert Systems" and "Queuing Systems and Simulation".</p>
 
-<p>Please visit <a href = "https://manugupta-or.github.io/" target="_blank">this page</a> to explore on my research and other activities.</p>
+<p>Please visit <a href = "https://manugupta-or.github.io/" target="_blank">this page</a> to explore my research and other activities.</p>
